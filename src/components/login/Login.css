@@ -1,0 +1,26 @@
+.form-login{
+  width: 30vw;
+  margin: auto;
+}
+
+.group{
+  width: 100%;
+  background-color: aquamarine;
+}
+
+.group > label,
+.group > input {
+  display: block;
+  margin: 0 15px;
+  text-align: left;
+}
+
+.group > label {
+  font-weight: bold;
+  line-height: 2.5em;
+}
+
+.group > input{
+  padding: 10px;
+  width: 100%;
+}
